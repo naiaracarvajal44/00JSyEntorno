@@ -80,6 +80,8 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    </html>
    ```
 4. Desde VSCode abre el archivo `hola.html` en tu navegador.
+   Para definir la estructura visual e interfaz de usuario de la página con la que interactúa el código JavaScript.
+   
 5. Observa el resultado en la consola del navegador.
 
 ![Captura de la consola 2 ](img/2.png)
