@@ -142,6 +142,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
      });
    });
    ```
+   
 6. Desde VSCode abre `formulario.html` en tu navegador y prueba el formulario.
 
 ![Captura de la consola 5 ](img/5.png)
@@ -150,24 +151,24 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 ## Parte 6: Preguntas de reflexión
 
 1. ¿Qué hace `console.log`?
-    Muestra los mensajes en la consola del navegador.
+- Muestra los mensajes en la consola del navegador.
 
 2. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
-Si se puede cambiar el valor de la variable porque si tenemos una variable nombre = "javi" y ponemos en la consola nombre = "Naiara"
+- Si se puede cambiar el valor de la variable porque si tenemos una variable nombre = "javi" y ponemos en la consola nombre = "Naiara"
 
 3. ¿Para qué sirve la consola del navegador en este contexto?
-Sirve para comprobar y detectar errores durante el desarrollo
+- Sirve para comprobar y detectar errores durante el desarrollo
 
 4. Para qué sirve el archivo HTML en este contexto?
-
+- Para definir la estructura visual e interfaz de usuario de la página web con la que interactúa el código JavaScript.
 5. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
-Permite tener el código más organizado y facilita su modificación.
+- Permite tener el código más organizado y facilita su modificación.
 
 6. Por qué se llama Vanilla JavaScript?
-Porque utilizamos JavaScritp puro sin libreria o frameworks
+- Porque utilizamos JavaScritp puro sin libreria o frameworks
 
 7. Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
-JavaScript puro se puede utilizar para páginas sencillas y proyectos pequeños. Las librerías como React se suelen utilizar en aplicaciones más grandes para facilitar la organización y el desarrollo.
+- JavaScript puro se puede utilizar para páginas sencillas y proyectos pequeños. Las librerías como React se suelen utilizar en aplicaciones más grandes para facilitar la organización y el desarrollo.
 
 8. Cómo se define una función en JS
 ```js
@@ -180,8 +181,7 @@ function nombre_funcion() {
 
 - La diferencia entre let y const es que let puedes reasignar su valor las veces que quieras y const no se puede
 ![Captura 6 ](img/6.png)
-10. Indica en el código:
-   1. Si puede evitarse el uso de let. Qué hace
+10. Indica en el código: Si puede evitarse el uso de let. Qué hace?
    - Si se puede pero con el let estas declarando una variable correctamente y sin let solo estás asignando un valor pero no declarando.
 
    2. Cuántos eventos hay en el código, cuáles son y para qué sirven
