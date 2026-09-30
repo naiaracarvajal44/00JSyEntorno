@@ -185,4 +185,4 @@ function nombre_funcion() {
    - Si se puede pero con el let estas declarando una variable correctamente y sin let solo estás asignando un valor pero no declarando.
 
    2. Cuántos eventos hay en el código, cuáles son y para qué sirven
-   - Si y lo que hace es recoger la informacion que se recoge del input del formulario cuando se le da al submit y prepara un mensaje que lo escribe en el p que hay en el html.
+   - Hay 2. Domcontentloaded que cuelga del documento que hace que cuando cargue el documento se active y el Submit lo que hace es recoger la informacion que se recoge del input del formulario cuando se le da al submit y prepara un mensaje que lo escribe en el p que hay en el html.
