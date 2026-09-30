@@ -177,9 +177,9 @@ function nombre_funcion() {
 ```
 
 9. Sobre el código demuestra la diferencia entre let y const
-![Captura 6 ](img/6.png)
-- La diferencia entre let y const es que let puedes reasignar su valor las veces que quieras y const no se puede
 
+- La diferencia entre let y const es que let puedes reasignar su valor las veces que quieras y const no se puede
+![Captura 6 ](img/6.png)
 10. Indica en el código:
    1. Si puede evitarse el uso de let. Qué hace
    - Si se puede pero con el let estas declarando una variable correctamente y sin let solo estás asignando un valor pero no declarando.
